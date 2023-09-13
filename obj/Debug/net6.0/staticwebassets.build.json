@@ -1,11 +1,71 @@
 {
   "Version": 1,
-  "Hash": "pHPH/JG00UJ4ikzXX/7ZfYsBYQYDHUvT/WUbqHpdad4=",
+  "Hash": "6ccfyGBxprNZk8uso4BeTlt42t0+u2ireZa/sBiua/w=",
   "Source": "nugatory-api",
   "BasePath": "_content/nugatory-api",
   "Mode": "Default",
   "ManifestType": "Build",
   "ReferencedProjectsConfiguration": [],
-  "DiscoveryPatterns": [],
-  "Assets": []
+  "DiscoveryPatterns": [
+    {
+      "Name": "nugatory-api\\wwwroot",
+      "Source": "nugatory-api",
+      "ContentRoot": "C:\\Users\\scott\\.NetAdvancedWeb\\nugatory-api\\wwwroot\\",
+      "BasePath": "_content/nugatory-api",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\scott\\.NetAdvancedWeb\\nugatory-api\\wwwroot\\client.js",
+      "SourceId": "nugatory-api",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\scott\\.NetAdvancedWeb\\nugatory-api\\wwwroot\\",
+      "BasePath": "_content/nugatory-api",
+      "RelativePath": "client.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\client.js"
+    },
+    {
+      "Identity": "C:\\Users\\scott\\.NetAdvancedWeb\\nugatory-api\\wwwroot\\favicon.png",
+      "SourceId": "nugatory-api",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\scott\\.NetAdvancedWeb\\nugatory-api\\wwwroot\\",
+      "BasePath": "_content/nugatory-api",
+      "RelativePath": "favicon.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\favicon.png"
+    },
+    {
+      "Identity": "C:\\Users\\scott\\.NetAdvancedWeb\\nugatory-api\\wwwroot\\index.html",
+      "SourceId": "nugatory-api",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\scott\\.NetAdvancedWeb\\nugatory-api\\wwwroot\\",
+      "BasePath": "_content/nugatory-api",
+      "RelativePath": "index.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\index.html"
+    }
+  ]
 }
